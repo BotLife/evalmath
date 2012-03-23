@@ -1,0 +1,4 @@
+# IDE specific files
+/.buildpath
+/.project
+/.settings/
